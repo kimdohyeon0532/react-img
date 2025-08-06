@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-img/static/css/main.fa00cf55.css",
+    "main.js": "/react-img/static/js/main.fe1414d9.js",
+    "static/js/453.9ee576b5.chunk.js": "/react-img/static/js/453.9ee576b5.chunk.js",
+    "static/media/cont3_cake4.png": "/react-img/static/media/cont3_cake4.968746b90b4d00bd09fa.png",
+    "index.html": "/react-img/index.html",
+    "main.fa00cf55.css.map": "/react-img/static/css/main.fa00cf55.css.map",
+    "main.fe1414d9.js.map": "/react-img/static/js/main.fe1414d9.js.map",
+    "453.9ee576b5.chunk.js.map": "/react-img/static/js/453.9ee576b5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa00cf55.css",
+    "static/js/main.fe1414d9.js"
+  ]
+}
